@@ -1,6 +1,6 @@
 # amazon-purchases
 
-A Clojure library designed to ... well, that part is up to you.
+Toy clj program for parsing Amazon purchase report CSV.
 
 ## Usage
 
